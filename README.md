@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a third year Software Engineering student at ENSIIE (École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise) who's passion for programming **started at the age of 10**. Interested in cutting edge science, **i started to learn about Machine Learning and Deep Learning 2 years ago**.
+I am a third year Software Engineering student at ENSIIE (École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise) whose passion for programming **started at the age of 10**. Interested in cutting edge science, **i started to learn about Machine Learning and Deep Learning 2 years ago**.
 
 I build **Deep Learning** models and experiment with them, **study and implement research papers**. I also tinker with **Reinforcement Learning** algorithms. I make machine learn on their own using **neural networks**, **convolutional neural networks** and **recurrent neural networks**. My interests include **Computer Vision**, **Natural language processing** and **Generative adversarial networks**.
 
