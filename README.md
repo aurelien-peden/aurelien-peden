@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a third year Software Engineering student at ENSIIE (École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise) whose passion for programming **started at the age of 10**. Interested in cutting edge science, **i started to learn about Machine Learning and Deep Learning in 2018**.
+I am a third year Software Engineering student at ENSIIE (École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise) whose passion for programming **started at the age of 10**. Interested in cutting edge science, **I started to learn about Machine Learning and Deep Learning in 2018**.
 
-I build **Deep Learning** models and experiment with them, **study and implement research papers**. I also tinker with **Reinforcement Learning** algorithms. I make machine learn on their own using **neural networks**, **convolutional neural networks** and **recurrent neural networks**. My interests include **Computer Vision**, **Natural language processing** and **Generative adversarial networks**.
+I build **Deep Learning** models and experiment with them, **study and implement research papers**. I also tinker with **Reinforcement Learning** algorithms. I make machines learn on their own using **neural networks**, **convolutional neural networks** and **recurrent neural networks**. My interests include **Computer Vision**, **Natural language processing** and **Generative adversarial networks**.
 
 I previously worked on a face mask detector using a CNN built with **TensorFlow 2.0**, using technics such as **Transfer Learning** with the **MobileNetV2** architecture, a sign language digits classifier with a **CNN** built with **PyTorch**, and implemented a neural network from scratch using Numpy. I now work on implementing and studying **research papers**, and **making tutorials to help newcomers** start their Machine Learning and Deep Learning journey.
 
