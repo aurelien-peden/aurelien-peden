@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: aurelienpeden@gmail.com
+<!--
+-->
 - :page_facing_up: [My blog](https://medium.com/@aurelienpeden)
 <!--
 - 😄 Pronouns: ...
