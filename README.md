@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a French fourth year Software Engineering and Applied Mathematics student at ENSIIE (École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise) and Paris-Saclay University, whose passion for programming **started at the age of 10**. Interested in cutting edge science, **I started to learn about Machine Learning and Deep Learning in 2018**.
+I am a French fifth year Software Engineering and Artificial Intelligence student at ENSIIE (École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise) and Paris-Saclay University, whose passion for programming **started at the age of 10**. Interested in cutting edge science, **I started to learn about Machine Learning and Deep Learning in 2018**.
 
 I build **Deep Learning** models and experiment with them, **study and implement research papers**. I also tinker with **Reinforcement Learning** algorithms. I make machines learn on their own using **neural networks**, **convolutional neural networks** and **recurrent neural networks**. My interests include **Computer Vision**, **Natural language processing** and **Generative adversarial networks**.
 
