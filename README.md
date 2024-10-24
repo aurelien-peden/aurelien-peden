@@ -1,6 +1,11 @@
-Passionate about programming since the age of 10, I taught myself C and C++ before learning about full-stack development, then machine learning and data engineering.
+👨‍💻 Software Developer | AI & Data Enthusiast | Problem Solver
 
-I now graduated from a Software Engineering degree from ENSIIE and a Master of Science in Artificial Intelligence from Paris-Saclay University, and I am looking to solve challenging problems in the field of Artificial Intelligence as I did previously at Owkin and Natixis. I have experiences working with Computer Vision, NLP (including LLMs), Generative AI, and Reinforcement Learning
+Hi there! I'm Aurélien, a passionate developer with a focus on building software, data engineering pipelines, and machine learning solutions. I enjoy working with Python, C++, Java, and SQL, and I’m always eager to expand my knowledge.
 
-Machine Learning Research Engineer Intern @Owkin Diagnostic Team
-Previously @Natixis AI Innovation Lab
+💡 I specialize in writing clean, efficient code and transforming complex challenges into scalable, user-friendly applications.
+
+📚 Always Learning: Currently diving deeper into OpenGL, low-level programming and advanced data engineering techniques.
+
+🔧 Tech Stack: Django, Flask, PyTorch, TensorFlow, LLMs, Apache Spark, Hadoop, Docker, Kubernetes, SQL, MongoDB.
+
+💬 Let’s collaborate on exciting projects or chat about tech! I’m open to contributions, ideas, and discussions. Feel free to reach out or explore my repositories.
