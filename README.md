@@ -8,4 +8,4 @@ Hi there! I'm Aurélien, a passionate developer with a focus on building softwar
 
 🔧 Tech Stack: Django, Flask, PyTorch, TensorFlow, LLMs, Apache Spark, Hadoop, Docker, Kubernetes, SQL, MongoDB.
 
-💬 Let’s collaborate on exciting projects or chat about tech! I’m open to contributions, ideas, and discussions. Feel free to reach out or explore my repositories.
+💬 I’m open to contributions, ideas, and discussions. Feel free to reach out at aurelienpeden@gmail.com or explore my repositories.
